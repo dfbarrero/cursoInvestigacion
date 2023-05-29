@@ -5,6 +5,6 @@
 
 ## Microestructura
 
-## Lenguaje
-
-## Formato y otros detalles
+## Escritura
+- Introducir el acrónimo en su primera mención.
+- Utilizar letra cursiva con los términos en otro idioma.
